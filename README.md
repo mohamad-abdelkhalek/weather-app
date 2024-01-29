@@ -30,6 +30,3 @@ The Weather App is a simple and user-friendly web application that provides real
    const apiKey = 'YOUR_API_KEY';
    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?units=metric&q=`;
 
-
-Feel free to customize the README to match the specific details of your weather app and the API you're using. Additionally, replace the placeholder 'YOUR_API_KEY' with the actual API key you obtain from the weather service provider.
-
